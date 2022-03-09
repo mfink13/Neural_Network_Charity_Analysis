@@ -25,7 +25,7 @@
     
   - Were you able to achieve the target model performance?
    
-     Unfortunetly, I wasn't able to achieve the target model performance.  I had an issue that I was not able to solve - my kernel died once I tried to optimize and I wasn't able to revive it.  I tried to recreate the whole project in a new repository, but kept running into a dead kernel. I also tried to delete my H5 file, as google said that may be the problem, but that did not fix the problem either.  Since ther kernel died, I was never able to recreate my H5 file either, so that is why it is missing.
+     Unfortunetly, I wasn't able to achieve the target model performance.  I had an issue that I was not able to solve - my kernel died once I tried to optimize and I wasn't able to revive it.  I tried to recreate the whole project in a new repository, but kept running into a dead kernel. I also tried to delete my H5 file, as google said that may be the problem, but that did not fix the problem either.  Since the kernel died, I was never able to recreate my H5 file either, so that is why it is missing.
     
   - What steps did you take to try and increase model performance?
    
